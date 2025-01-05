@@ -1,0 +1,5 @@
+name = "giggle-ai"
+main = "src/worker.js"
+compatibility_date = "2025-01-05"
+
+[vars]
