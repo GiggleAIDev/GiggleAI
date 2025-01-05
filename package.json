@@ -1,0 +1,12 @@
+{
+  "name": "giggle-ai-api",
+  "version": "1.0.0",
+  "description": "Backend for Giggle AI API",
+  "main": "src/worker.js",
+  "scripts": {
+    "deploy": "wrangler deploy",
+      "dev": "wrangler dev"
+  },
+  "author": "",
+  "license": "MIT"
+}
